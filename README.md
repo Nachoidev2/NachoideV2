@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/NachoideV2/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/NachoideV2/github-readme-stats)
 
 <!--
 **NachoideV2/NachoideV2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
